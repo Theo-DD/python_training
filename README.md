@@ -1,4 +1,23 @@
-# python_training
-日常训练python爬虫和算法\n
+<!--
+<p align="center">
+  <br># python_training
+  <br><a href="README.md">日常训练爬虫和算法</a>
+  <br>在这里记录我的成长，加油！
+</p>
 
-拉取请求最后一次测试，成功后正式进入训练环节
+入门级**每月 28 号**以月刊的形式[更新发布](https://mp.weixin.qq.com/mp/appmect)，内容！
+
+-->
+[//]: (注释法1)
+<!--注释法2-->
+
+
+
+## 简介
+日常训练Python爬虫和算法，在这里记录我的成长，加油！
+
+## 内容
+第一篇 一些基础语法
+
+## 备注
+本人好学，交流可<a href="mailto:595666367@qq.com">联系我</a>。
