@@ -17,7 +17,7 @@
 日常训练Python爬虫和算法，在这里记录我的成长，加油！
 
 ## 内容
-[第一篇 一些基础语法](./training_1/readme_1.md)
+[第一篇 一些基础语法所实现的功能](./training_1/readme_1.md)
 
 ## 备注
 本人好学，交流可<a href="mailto:595666367@qq.com">联系我</a>。
